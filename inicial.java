@@ -15,6 +15,10 @@ public class inicial {
         scanner.close();
 
         System.out.println("A soma dos dois números é: " + (numero1 + numero2));
+
+        System.out.println("A subtração dos dois números é: " + (numero1 - numero2));
+
+        
     
         
     }
