@@ -20,6 +20,8 @@ public class inicial {
 
         System.out.println("A multiplicação dos dois números é: " + (numero1 * numero2));
 
+        System.out.println("A divisão dos dois números é: " + (numero1 / numero2));
+
         
     
         
